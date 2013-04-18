@@ -1,0 +1,35 @@
+Project 1- Specifications - DUE FEB 14
+
+Call External Program
+PassParameter to Dictionary Program
+REturn data from dictionary program
+
+
+code:
+Main program banner (comment/documentation) - Example in 2/7 slideshow
+Code banner comments
+Maintenance log
+
+Documentation:
+one page instructions
+output file
+
+misc:
+Clean and readable code
+Understanable code
+-------------------------------------
+*One page instruction
+
+
+
+Dictionary:
+	* Executable
+	* Searches for English and returns foreign word
+	* Can Translate at least 15 english words to foreign
+
+
+
+Translate:
+	* Executable
+	* Sends Dictionary an English word
+	* Prints out the translation to english into a file

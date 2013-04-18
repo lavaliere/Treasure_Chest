@@ -1,0 +1,3 @@
+cerdo, perro, gato, raton, casa,
+corre, salta, las moscas, come, excavaciones,
+el, ella, le, nostros, ellos

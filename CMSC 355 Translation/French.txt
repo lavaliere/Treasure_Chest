@@ -1,0 +1,3 @@
+porc, chien, chat, souris, maison,
+fonctionne, saute, vole, mange, fouilles,
+il, elle, il, nous, ils

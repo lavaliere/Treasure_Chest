@@ -1,0 +1,3 @@
+suino, cane, gatto, piccolo, casa,
+corre, jumps, vola, mangia, scava,
+egli, lei, essa, noi, loro
